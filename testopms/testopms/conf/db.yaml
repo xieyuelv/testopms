@@ -1,0 +1,9 @@
+MYSQL:
+  ip : "192.168.48.155"
+  port : 6606
+  username : "root"
+  password : "000000"
+  db : "aiopms"
+  charset : "utf8"
+
+host : "http://192.168.48.155:8289"
